@@ -32,3 +32,8 @@ This layer provides tooling for developing models, including frameworks for mode
 - **Infrastructure**
 
 At the bottom is the stack is infrastructure, which includes tooling for model serving, managing data and compute, and monitoring. hi
+
+- **Prompting:** Tell the LM **what to do** using instructions/context. → _Model stays the same._
+    
+- **Fine-tuning:** Change the model’s **weights/parameters** using training data. → _You adapt the model itself._
+
