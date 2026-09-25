@@ -12,6 +12,7 @@ Quantization is a technique used to make models smaller and faster by reducing t
 
 A reasoning model is an AI that pauses to "think" and work through a problem step-by-step before giving you a final answer.
 
+================================================================================================================================================================================================================================================
 ### Friday
 The Ai Engineering Stack
 - Ai endgi evolved out of MK engi.

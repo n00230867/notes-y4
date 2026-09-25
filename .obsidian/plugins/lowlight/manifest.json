@@ -1,0 +1,10 @@
+{
+	"id": "lowlight",
+	"name": "Lowlight",
+	"version": "1.0.0",
+	"minAppVersion": "1.5.0",
+	"description": "Highlight selected text in custom colours.",
+	"author": "StikyPiston",
+	"isDesktopOnly": false
+}
+
