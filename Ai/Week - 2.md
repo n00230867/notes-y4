@@ -31,4 +31,4 @@ This layer provides tooling for developing models, including frameworks for mode
 
 - **Infrastructure**
 
-At the bottom is the stack is infrastructure, which includes tooling for model serving, managing data and compute, and monitoring.
+At the bottom is the stack is infrastructure, which includes tooling for model serving, managing data and compute, and monitoring. hi
