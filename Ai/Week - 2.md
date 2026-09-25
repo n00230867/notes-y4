@@ -128,3 +128,4 @@ AI engineers often focus on:
 
 - Common sampling strategies are:
 https://www.youtube.com/watch?v=ciCt3bDnrEs
+https://vibeengines.com/tools/llm-sampling-simulator?utm_source=chatgpt.com
