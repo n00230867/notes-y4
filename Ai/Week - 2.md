@@ -116,3 +116,15 @@ AI engineers often focus on:
 ### Key Takeaway
 
 **Dataset engineering for AI is mainly about preparing high-quality, diverse, and safe data for open-ended models.**
+
+
+# **Sampling**
+
+### **Sampling Strategies**
+
+- Choosing the right sampling strategy helps your model produce responses that fit your needs. Some strategies make the model's replies more creative. Others make them more predictable.
+
+- Many different sample strategies have been introduced to nudge models toward responses with specific attributes.
+
+- Common sampling strategies are:
+https://www.youtube.com/watch?v=ciCt3bDnrEs
