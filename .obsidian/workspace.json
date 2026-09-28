@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ai/Week 3/Monday 28-09/9. Supervised Learning; Classification + Regression.md",
+                "file": "WebDev/Week - 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "9. Supervised Learning; Classification + Regression"
+              "title": "Week - 2"
             }
           }
         ],
@@ -234,20 +234,23 @@
   },
   "active": "7116fc530f2bef60",
   "lastOpenFiles": [
-    "Ai/Week 3/Monday 28-09/8. Inference.md",
+    "Ai/Week 2/Week - 2 Engineering + Sampling.md",
+    "Ai/Week 2/Week - 2 Jev.md",
     "Ai/Week 3/Monday 28-09/9. Supervised Learning; Classification + Regression.md",
-    "Pasted image 20260928131159.png",
+    "Ai/Week 3/Monday 28-09/2. Supervised Learning VS Unsupervised Learning.md",
+    "images/Pasted image 20260928131159.png",
+    "images/Pasted image 20260928131707.png",
+    "Ai/Week 3/Monday 28-09/5. Data - Datasets.md",
+    "Ai/Week 3/Monday 28-09/4. Generative AI.md",
+    "Ai/Week 3/Monday 28-09/3. Reinforcement learning.md",
+    "Ai/Week 3/Monday 28-09/1. Machine Learning.md",
+    "Ai/Week 3/Monday 28-09/8. Inference.md",
     "Ai/Week 3/Monday 28-09/7. Evaluating.md",
     "images/Pasted image 20260928125821.png",
     "images/Pasted image 20260928131010.png",
     "Ai/Week 3/Monday 28-09/6. Model + Training.md",
-    "Ai/Week 3/Monday 28-09/4. Generative AI.md",
-    "Ai/Week 3/Monday 28-09/3. Reinforcement learning.md",
-    "Ai/Week 3/Monday 28-09/2. Supervised Learning VS Unsupervised Learning.md",
-    "Ai/Week 3/Monday 28-09/1. Machine Learning.md",
     "images/Pasted image 20260928125838.png",
     "images/Pasted image 20260928125832.png",
-    "Ai/Week 3/Monday 28-09/5. Data - Datasets.md",
     "Ai/Week 3/Monday 28-09",
     "Ai/Week 3/Week 3 Theory.md",
     "images/Pasted image 20260928123200.png",
@@ -255,12 +258,9 @@
     "images/Pasted image 20260928125138.png",
     "images/Pasted image 20260928125121.png",
     "images/Pasted image 20260928124359.png",
-    "images/Pasted image 20260928124346.png",
     "Ai/Week 3/3. Unsupervised Learning.md",
-    "Ai/Week 2/Week - 2 Jev.md",
     "Ai/Week 3",
     "Ai/Week 2",
-    "Ai/Week 2/Week - 2 Engineering + Sampling.md",
     "WebDev/Week - 2.md",
     "WebDev",
     "Ai"
