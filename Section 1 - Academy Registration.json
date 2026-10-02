@@ -1,0 +1,88 @@
+{
+  "name": "Section 1 - Academy Registration",
+  "nodes": [
+    {
+      "parameters": {},
+      "type": "n8n-nodes-base.manualTrigger",
+      "typeVersion": 1,
+      "position": [
+        0,
+        0
+      ],
+      "id": "75fd1c79-66d7-4bbc-9351-0097ba8a73de",
+      "name": "TriggerManual "
+    },
+    {
+      "parameters": {
+        "url": "https://learn.app.n8n.cloud/webhook/course/foundations/register",
+        "authentication": "genericCredentialType",
+        "genericAuthType": "httpHeaderAuth",
+        "sendQuery": true,
+        "queryParameters": {
+          "parameters": [
+            {
+              "name": "assessment_id",
+              "value": "ebb715809deb20ea1d542065b040a443"
+            },
+            {
+              "name": "workflow_name",
+              "value": "Section 1 - Academy Registration"
+            },
+            {
+              "name": "tag",
+              "value": "foundations-course"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.5,
+      "position": [
+        224,
+        0
+      ],
+      "id": "617bbfa3-404d-40c2-b2cd-6b0d4e27ec6c",
+      "name": "SubmitRegistration",
+      "credentials": {
+        "httpHeaderAuth": {
+          "id": "pNSiGj5D6jJKn0om",
+          "name": "n8n Academy API Key"
+        }
+      }
+    }
+  ],
+  "pinData": {},
+  "connections": {
+    "TriggerManual ": {
+      "main": [
+        [
+          {
+            "node": "SubmitRegistration",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "active": false,
+  "settings": {
+    "executionOrder": "v1",
+    "binaryMode": "separate"
+  },
+  "versionId": "9fcc0d99-6827-432d-8706-97d05676824b",
+  "meta": {
+    "instanceId": "23d92da43f283486ad53ba65be5da333073b9d3efaba5a4a3f70b1f4b856f6e3"
+  },
+  "nodeGroups": [],
+  "id": "xRu57SwtoRC9Gd6a",
+  "tags": [
+    {
+      "updatedAt": "2026-10-02T11:55:16.128Z",
+      "createdAt": "2026-10-02T11:55:16.128Z",
+      "id": "hSCy7YELR1w4NK5w",
+      "name": "n8n101"
+    }
+  ]
+}
