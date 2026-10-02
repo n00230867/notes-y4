@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ai/Week 3/Monday 28-09/10. Nearest neighbour classification.md",
+                "file": "Ai/ML_Penguin_Classifier_pipeline.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10. Nearest neighbour classification"
+              "title": "ML_Penguin_Classifier_pipeline"
             }
           }
         ],
@@ -206,8 +206,9 @@
   },
   "active": "27cf5d76c45881f9",
   "lastOpenFiles": [
-    "Ai/Week 3/Monday 28-09/1. Machine Learning.md",
     "Ai/Week 3/Monday 28-09/10. Nearest neighbour classification.md",
+    "Ai/ML_Penguin_Classifier_pipeline.md",
+    "Ai/Week 3/Monday 28-09/1. Machine Learning.md",
     "Ai/Week 3/Monday 28-09/9. Supervised Learning; Classification + Regression.md",
     "Pasted image 20260928132651.png",
     "Pasted image 20260928132630.png",
