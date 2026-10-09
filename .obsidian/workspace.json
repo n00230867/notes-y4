@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ai/Week 3/Monday 28-09/1. Machine Learning.md",
+                "file": "Ai/Week 4/Neural Networks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Machine Learning"
+              "title": "Neural Networks"
             }
           }
         ],
@@ -218,8 +218,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "d279098191a1fbfe",
+  "active": "cdccca3a9f034af2",
   "lastOpenFiles": [
+    "Ai/Week 4/Deep Learning.md",
+    "Ai/Week 4/Neural Networks.md",
+    "Ai/Week 3/Monday 28-09/1. Machine Learning.md",
     "Ai/Week 4",
     "z - images/Pasted image 20260928132651.png",
     "Ai/Links and Commands.md",
@@ -227,7 +230,6 @@
     "Section 1 - Academy Registration.json",
     "Ai/ML_Penguin_Classifier_pipeline.md",
     "Ai/Week 3/Monday 28-09/10. Nearest neighbour classification.md",
-    "Ai/Week 3/Monday 28-09/1. Machine Learning.md",
     "Ai/Week 3/Monday 28-09/9. Supervised Learning; Classification + Regression.md",
     "z - images/Pasted image 20260928132630.png",
     "z - images/Pasted image 20260928132340.png",
@@ -256,7 +258,6 @@
     "Ai/Week 3/3. Unsupervised Learning.md",
     "Ai/Week 3",
     "Ai/Week 2",
-    "WebDev",
-    "Ai"
+    "WebDev"
   ]
 }
